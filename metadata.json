@@ -1,0 +1,8 @@
+{
+  "name": "浙闽山海禅意行 - 五一自驾地图",
+  "description": "杭州至福鼎、霞浦的自驾游规划地图。包含太姥山、平兴寺、杨家溪等景点的日划、美食推荐、光影攻略及实时地图指引。",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
